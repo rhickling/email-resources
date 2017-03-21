@@ -1,4 +1,4 @@
-# Technical Info on Email Marketing
+# Deliverability Related Info
 
 ### IP Warmup
 

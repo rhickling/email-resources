@@ -1,6 +1,6 @@
 # Accessibility and Email
 
-Some of the below originally taken from:
+Most of the below originally taken from:
 https://github.com/wilbertheinen/accessible-email-documentation
 
 Articles:

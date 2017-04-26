@@ -3,9 +3,9 @@ A random collection of email related links that have or may proven useful.
 
 ## Contents
 
-* [Deliverability](#deliverability)
 * [Accessibility](#accessibility)
 * [Coding](#coding)
+* [Deliverability](#deliverability)
 * [Email Service Providers](#email-service-providers)
 
 ## Accessibility

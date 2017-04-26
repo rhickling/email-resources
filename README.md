@@ -8,14 +8,6 @@ A random collection of email related links that have or may proven useful.
 * [Coding](#coding)
 * [Email Service Providers](#email-service-providers)
 
-## Deliverability
-
-### IP Warmup
-
-* [Why do we "warmup" IP addresses](https://wordtothewise.com/2014/04/warmup-ip-addresses/)
-* [SendGrid Automated IP Warmup Schedule](https://sendgrid.com/docs/API_Reference/Web_API_v3/IP_Management/ip_warmup_schedule.html)
-* [SFMC IP Address Warming Guide](https://help.marketingcloud.com/en/documentation/exacttarget/resources/email_deliverability/ip_address_warming_guide/)
-
 ## Accessibility
 
 Find most of the below and more from:
@@ -36,6 +28,14 @@ Articles:
 ## Coding
 
 * [A Guide to Bulletproof Buttons in Email Design](https://litmus.com/blog/a-guide-to-bulletproof-buttons-in-email-design) - Useful code for making non image buttons fully clickable. Along with media queries for progressive enhancement.
+
+## Deliverability
+
+### IP Warmup
+
+* [Why do we "warmup" IP addresses](https://wordtothewise.com/2014/04/warmup-ip-addresses/)
+* [SendGrid Automated IP Warmup Schedule](https://sendgrid.com/docs/API_Reference/Web_API_v3/IP_Management/ip_warmup_schedule.html)
+* [SFMC IP Address Warming Guide](https://help.marketingcloud.com/en/documentation/exacttarget/resources/email_deliverability/ip_address_warming_guide/)
 
 ## Email Service Providers
 

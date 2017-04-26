@@ -1,5 +1,5 @@
 # email-resources
-A random collection of email related links that have or may proven useful.
+A random collection of email related links that may prove useful.
 
 ## Contents
 

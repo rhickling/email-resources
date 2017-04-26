@@ -39,6 +39,12 @@ Articles:
 
 ## Email Service Providers
 
+### Amazon SES
+
+* [Amazon SES Now Offers Dedicated IP Addresses](https://aws.amazon.com/blogs/ses/amazon-ses-now-offers-dedicated-ip-addresses/)
+* [Using Dedicated IP Addresses with Amazon SES](http://docs.aws.amazon.com/ses/latest/DeveloperGuide/dedicated-ips.html)
+* [Amazon SES Can Now Automatically Warm Up Your Dedicated IP Addresses](https://aws.amazon.com/blogs/ses/amazon-ses-can-now-automatic-warm-up-your-dedicated-ip-addresses/) - Now automatically warms all new dedicated IP requests
+
 ### MailChimp
 
 * [Five things MailChimp users forget to do](https://emailpixels.com/five-things-mailchimp-users-forget/)

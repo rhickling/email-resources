@@ -7,6 +7,7 @@ A random collection of email related links that may prove useful.
 * [Coding](#coding)
 * [Deliverability](#deliverability)
 * [Email Service Providers](#email-service-providers)
+* [Marketing / Examples / Strategy](#marketing)
 
 ## Accessibility
 
@@ -48,3 +49,8 @@ Articles:
 ### MailChimp
 
 * [Five things MailChimp users forget to do](https://emailpixels.com/five-things-mailchimp-users-forget/)
+
+## Marketing
+
+* [The 17 emails we send to engage customers, reduce churn & increase revenue](https://blog.baremetrics.com/the-17-emails-we-send-to-engage-customers-reduce-churn-increase-revenue-806cd2eaa11c)
+* [EmailDrips - Gallery of Email sequences](http://www.emaildrips.com/)

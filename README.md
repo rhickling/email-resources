@@ -29,6 +29,11 @@ Articles:
 ## Coding
 
 * [A Guide to Bulletproof Buttons in Email Design](https://litmus.com/blog/a-guide-to-bulletproof-buttons-in-email-design) - Useful code for making non image buttons fully clickable. Along with media queries for progressive enhancement.
+* [Bulletproof Background Images](https://backgrounds.cm/)
+* [MJML](https://mjml.io/)
+* [ZURB Foundation for Emails](http://foundation.zurb.com/emails.html)
+* [Email Framework by Glenn Smith](http://emailframe.work/)
+* [Cerberus - Patterns for responsive emails by Ted Goas](http://tedgoas.github.io/Cerberus/)
 
 ## Deliverability
 
@@ -54,3 +59,7 @@ Articles:
 
 * [The 17 emails we send to engage customers, reduce churn & increase revenue](https://blog.baremetrics.com/the-17-emails-we-send-to-engage-customers-reduce-churn-increase-revenue-806cd2eaa11c)
 * [EmailDrips - Gallery of Email sequences](http://www.emaildrips.com/)
+* [HTML Email Designs](http://htmlemaildesigns.com/)
+* [Milled - Search engine for email newsletters](https://milled.com/)
+* [Really Good Emails](http://reallygoodemails.com/)
+* [Just Good Copy](http://www.goodemailcopy.com/)
